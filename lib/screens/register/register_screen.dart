@@ -59,6 +59,7 @@ class RegisterState extends State<RegisterScreen> implements RegisterScreenContr
         } else {
           gender = 'F';
         }
+        gender = 'M';
     });
   }
 
